@@ -91,7 +91,7 @@ latex_elements = {
 }
 
 latex_documents = [
-  ('index', 'handbook.tex', '新月杀Lua手册',
+  ('index', 'handbook.tex', '新月杀入门指南',
    'Qsgs-Fans', 'manual', False),
 ]
 
