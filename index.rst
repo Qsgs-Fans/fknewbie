@@ -23,3 +23,6 @@
    12-linux-more-basic.rst
    13-start-server.rst
    14-server-owner.rst
+   15-hello-lua.rst
+   16-var-and-type.rst
+   17-if.rst
