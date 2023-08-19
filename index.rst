@@ -26,3 +26,5 @@
    15-hello-lua.rst
    16-var-and-type.rst
    17-if.rst
+   18-list.rst
+   19-loop.rst
