@@ -28,6 +28,11 @@
 
    下载debian安装镜像
 
+.. hint::
+
+   图里面这个镜像是联网安装，期间会连接外网下载资源。如若对网络不自信，请考虑离线版镜像
+   https://cdimage.debian.org/debian-cd/12.1.0/amd64/iso-dvd/debian-12.1.0-amd64-DVD-1.iso
+
 等待下载完毕后，在vmware中新建虚拟机。
 因为我没搞到中文版，所以新建虚拟机这块烦请参考https://zhuanlan.zhihu.com/p/41940739。
 照着这个网站新建虚拟机就行了，注意虚拟机名称以及发行版都应该选择Debian x64的。
