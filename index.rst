@@ -29,3 +29,4 @@
    18-list.rst
    19-loop.rst
    20-table.rst
+   21-func.rst
