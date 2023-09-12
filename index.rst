@@ -28,3 +28,4 @@
    17-if.rst
    18-list.rst
    19-loop.rst
+   20-table.rst
